@@ -1,8 +1,8 @@
 .message {
     display: flex;
     align-items: flex-end;
-    background: grey;
     padding: 10px;
+
 
 }
 
@@ -37,12 +37,12 @@
 .name_user {
     font-size: 12px;
     font-weight: bold;
-    color: #4f574f;
+    color: #f8eaea;
 }
 
 .time {
     display: flex;
     justify-content: flex-end;
-    color: #4f574f;
+    color: #f8eaea;
     font-size: x-small;
 }
