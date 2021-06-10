@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/%20hometask/index/static/css/main.8773e24b.chunk.css",
-    "main.js": "/%20hometask/index/static/js/main.ae8e44c7.chunk.js",
-    "main.js.map": "/%20hometask/index/static/js/main.ae8e44c7.chunk.js.map",
-    "runtime-main.js": "/%20hometask/index/static/js/runtime-main.a907a8ba.js",
-    "runtime-main.js.map": "/%20hometask/index/static/js/runtime-main.a907a8ba.js.map",
-    "static/js/2.80953190.chunk.js": "/%20hometask/index/static/js/2.80953190.chunk.js",
-    "static/js/2.80953190.chunk.js.map": "/%20hometask/index/static/js/2.80953190.chunk.js.map",
-    "index.html": "/%20hometask/index/index.html",
-    "precache-manifest.07658f73cc7e9313aba495894afba6c2.js": "/%20hometask/index/precache-manifest.07658f73cc7e9313aba495894afba6c2.js",
-    "service-worker.js": "/%20hometask/index/service-worker.js",
-    "static/css/main.8773e24b.chunk.css.map": "/%20hometask/index/static/css/main.8773e24b.chunk.css.map",
-    "static/js/2.80953190.chunk.js.LICENSE.txt": "/%20hometask/index/static/js/2.80953190.chunk.js.LICENSE.txt"
+    "main.css": "/%20hometask/index.tsx/static/css/main.8773e24b.chunk.css",
+    "main.js": "/%20hometask/index.tsx/static/js/main.7a625fc9.chunk.js",
+    "main.js.map": "/%20hometask/index.tsx/static/js/main.7a625fc9.chunk.js.map",
+    "runtime-main.js": "/%20hometask/index.tsx/static/js/runtime-main.95cfb6b0.js",
+    "runtime-main.js.map": "/%20hometask/index.tsx/static/js/runtime-main.95cfb6b0.js.map",
+    "static/js/2.80953190.chunk.js": "/%20hometask/index.tsx/static/js/2.80953190.chunk.js",
+    "static/js/2.80953190.chunk.js.map": "/%20hometask/index.tsx/static/js/2.80953190.chunk.js.map",
+    "index.html": "/%20hometask/index.tsx/index.html",
+    "precache-manifest.3cca87dd9ca0248063801978e793fd25.js": "/%20hometask/index.tsx/precache-manifest.3cca87dd9ca0248063801978e793fd25.js",
+    "service-worker.js": "/%20hometask/index.tsx/service-worker.js",
+    "static/css/main.8773e24b.chunk.css.map": "/%20hometask/index.tsx/static/css/main.8773e24b.chunk.css.map",
+    "static/js/2.80953190.chunk.js.LICENSE.txt": "/%20hometask/index.tsx/static/js/2.80953190.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a907a8ba.js",
+    "static/js/runtime-main.95cfb6b0.js",
     "static/js/2.80953190.chunk.js",
     "static/css/main.8773e24b.chunk.css",
-    "static/js/main.ae8e44c7.chunk.js"
+    "static/js/main.7a625fc9.chunk.js"
   ]
 }
