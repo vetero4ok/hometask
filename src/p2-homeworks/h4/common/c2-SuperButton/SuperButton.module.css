@@ -13,8 +13,8 @@
     letter-spacing: 3px;
     font-weight: 600;
     color: #524f4e;
-    background: white;
-    box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
+    background: rgba(8, 172, 248, 0.51);
+    box-shadow: 0 8px 15px rgba(3, 137, 255, 0.51);
     transition: .3s;
 }
 .default:hover {
