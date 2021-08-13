@@ -1,0 +1,33 @@
+.select {
+    width: 200px;
+    padding: 5px;
+    padding-right: 30px;
+
+    cursor: pointer;
+    /*-webkit-appearance: none;*/
+    /*-moz-appearance: none;*/
+    /*-ms-appearance: none;*/
+    /*appearance: none;*/
+    /*background: url('https://i.pinimg.com/originals/32/85/83/3285839a58cacc29a73872c5638c0786.jpg') no-repeat right center ;*/
+    /*outline: 0;*/
+
+    border: 2px inset rgb(209, 220, 255);
+    color: #999999;
+}
+.select:focus{
+    outline: none;
+    border: #7aaaff solid 2px;
+}
+.option {
+    color: #999999;
+    background: #7aaaff;
+}
+.option:checked {
+    color: #999999;
+    background: #bcd2ff;
+}
+/*.option:hover {*/
+/*    box-shadow: 0 0 10px 100px #fed20f inset;*/
+/*    transition: all .2s ease-in-out;*/
+/*    background: red;*/
+/*}*/
